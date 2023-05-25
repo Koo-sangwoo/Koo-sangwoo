@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Koo-sangwoo&show_icons=true&hide_border=true)](https://github.com/Koo-sangwoo)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koo-sangwoo&layout=compact)](https://github.com/Koo-sangwoo)
 
